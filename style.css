@@ -1,0 +1,100 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #eee;
+    
+}
+.h1 {
+    justify-content: center;
+    align-items: center;
+    color: white;
+    padding: 10px 10px;
+    
+}
+
+.params {
+    background-color: #222;
+}
+
+.card {
+    display: flex;
+    gap: 5px;
+    margin-top: 5px;
+}
+
+.card-1 {
+    background-color: rgb(0, 0, 0);
+    width: 200px;
+    border-radius: 20px;
+    padding: 20px;
+
+
+}
+.card-2 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+}
+
+
+
+.p {
+    padding: 10px 10px;
+    font-size: 15px;
+    color: white;
+}
+
+
+
+
+.name {
+    margin-top: -25px;
+    font-size: 15px;
+    font-weight: 500;
+    color: white;
+    padding: 5px 5px 0px 0px;
+}
+
+.title {
+    font-size: 15px;
+    margin-top: 10px;
+    color: white;
+    background-color: #222;
+    padding: 5px 5px 5px 5px;
+}
+
+.wrapper {
+    background-color: #222;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn {
+    color: #222;
+    font-size: 32px;
+    padding: 10px 20px;
+    background-color: #3867d6;
+    border: none;
+    outline: 3px solid #222;
+    outline-offset: -5px;
+    cursor: pointer;
+    border-radius: 10px;
+
+    transition: 
+}
+
+.btn:hover{
+    background-color: #45aaf2;
+    outline-offset: 5px;
+    outline-color: #45aaf2;
+
+}
+
+.cap {
+    background-color: #222;
+    color: #eee;
+    padding: 0px 5px ;
+    display:list-item;
+
+}
